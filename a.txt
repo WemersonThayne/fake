@@ -1,7 +1,4 @@
 Nova linha 1
-Nova linha 2
-Nova linha 3
-Linha 4 alterada
 Linha 5 alterada
 Nova linha adicionada 6
 Nova linha adicionada 7
